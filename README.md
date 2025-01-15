@@ -6,7 +6,7 @@ Root Cart is a shopping cart for the unofficial Root merchandising store. This p
 
 Below is a screenshot of the Root Cart in action:
 
-![Root Cart Screenshot](Screenshot 2025-01-15 170346.png)
+![Root Cart Screenshot](https://github.com/KunalLabs/Root-Cart/blob/main/Screenshot%202025-01-15%20170346.png?raw=true)
 
 ## Table of Contents
 - [Introduction](#introduction)
