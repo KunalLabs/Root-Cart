@@ -15,7 +15,6 @@ Below is a screenshot of the Root Cart in action:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -84,24 +83,7 @@ This project includes unit tests to ensure functionality:
 
 3. Review the results and update your code to fix any failing tests.
 
-## Contributing
 
-We welcome contributions to improve Root Cart! Here's how you can contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
 
 ## License
 
