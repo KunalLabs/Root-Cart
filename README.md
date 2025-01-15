@@ -1,9 +1,14 @@
 # Root Cart
 
-Root Cart is a shopping cart for the unofficial Root merchandising store. This project is designed to enhance user experience by allowing visitors to add, remove, and modify products in their shopping cart. The cart dynamically updates the subtotal and total prices based on user inputs.
+Root Cart is a shopping cart for the unofficial Root merchandising store. This project enhances user experience by allowing visitors to add, remove, and modify products in their shopping carts. The cart dynamically updates the subtotal and total prices based on user inputs.
+
+## Screenshots
+
+Below is a screenshot of the Root Cart in action:
+
+![Root Cart Screenshot](./)
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
@@ -15,7 +20,7 @@ Root Cart is a shopping cart for the unofficial Root merchandising store. This p
 
 ## Introduction
 
-E-commerce has become a significant component of the 21st-century economy, with a projected 6.3 trillion USD in worldwide sales by 2024. Optimizing the purchase flow is crucial for retaining customers and improving conversions. The shopping cart plays a vital role in this experience.
+E-commerce has become a significant component of the 21st-century economy, with a projected 6.3 trillion USD in worldwide sales by 2024. Optimizing the purchase flow is crucial for retaining customers and improving conversions, and the shopping cart plays a vital role in this experience.
 
 Root Cart focuses on providing a streamlined and user-friendly shopping experience. The cart allows users to:
 
@@ -28,7 +33,7 @@ Root Cart focuses on providing a streamlined and user-friendly shopping experien
 
 - **Dynamic Price Updates**: Automatically calculates and displays the subtotal and total prices based on user actions.
 - **Responsive UI**: Interactive and clean user interface.
-- **Remove Functionality**: Users can remove items from the cart with ease.
+- **Remove Functionality**: Users can easily remove items from the cart.
 - **Real-Time Updates**: Subtotals and totals update immediately when quantities change or items are removed.
 
 ## Requirements
@@ -44,7 +49,6 @@ To set up the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/KunalLabs/frontendmentor-qr-code.git
-   cd frontendmentor-qr-code
    ```
 
 2. Install dependencies (if applicable):
