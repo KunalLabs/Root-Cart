@@ -49,6 +49,11 @@ function updateSubtotal(product) {
       });
     });
   } 
+
+window.addEventListener('load', () => {
+    const calculatePricesBtn = document.getElementById('calculate');
+    calculatePricesBtn.addEventListener('click', calculateAll);
+  });
   
   
 
