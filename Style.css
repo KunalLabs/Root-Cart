@@ -8,7 +8,10 @@ body {
   line-height: 1.5;
   color: #2d354c;
 }
-
+button,
+input {
+  font: inherit;
+  color: inherit;
 
 }
 
