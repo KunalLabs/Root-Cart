@@ -1,5 +1,3 @@
-function updateSubtotal(product) {
-    console.log('Calculating subtotal, yey!');
 
 
   
