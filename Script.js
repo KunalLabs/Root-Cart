@@ -1,4 +1,22 @@
+function updateSubtotal(product) {
+    console.log('Calculating subtotal, yey!');
+
+
   
+    const price = product.querySelector(`.price span`);
+    const quantity = product.querySelector(`.quantity input`);
+  
+    const priceValue = parseFloat(price.textContent);
+    const quantityValue = parseInt(quantity.value);
+  
+    const subtotal = priceValue*quantityValue;
+  
+    const subtotalElement = product.querySelector (`.subtotal span`);
+    
+    subtotalElement.textContent = subtotal.toFixed(2);
+  
+    return subtotal;
+  }  
   const product = document.querySelector('.product');
   
   let result = updateSubtotal(product);
@@ -39,6 +57,7 @@ window.addEventListener('load', () => {
   
 
   
+
 
 
 
